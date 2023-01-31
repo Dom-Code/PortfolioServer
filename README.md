@@ -1,4 +1,4 @@
-# Collaby Web Server
+# Portfolio API
 
 A Restful API that will register a new user, manage login and logout, and safely handle access and refresh tokens.
 
